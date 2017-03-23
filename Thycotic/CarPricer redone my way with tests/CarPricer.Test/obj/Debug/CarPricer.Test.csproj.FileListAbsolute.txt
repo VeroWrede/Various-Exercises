@@ -1,0 +1,9 @@
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\bin\Debug\CarPricer.Test.dll
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\bin\Debug\CarPricer.Test.pdb
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\bin\Debug\CarPricer.dll
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\bin\Debug\nunit.framework.dll
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\bin\Debug\CarPricer.pdb
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\bin\Debug\nunit.framework.xml
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\obj\Debug\CarPricer.Test.csprojResolveAssemblyReference.cache
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\obj\Debug\CarPricer.Test.dll
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer.Test\obj\Debug\CarPricer.Test.pdb

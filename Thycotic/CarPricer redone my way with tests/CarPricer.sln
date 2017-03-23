@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPricer", "CarPricer\CarPricer.csproj", "{D362B240-42FA-4FDF-95C2-D4EE225D3D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPricer.Test", "CarPricer.Test\CarPricer.Test.csproj", "{CA274457-B1CC-456B-BC1A-F7A01C26A5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D362B240-42FA-4FDF-95C2-D4EE225D3D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D362B240-42FA-4FDF-95C2-D4EE225D3D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D362B240-42FA-4FDF-95C2-D4EE225D3D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D362B240-42FA-4FDF-95C2-D4EE225D3D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA274457-B1CC-456B-BC1A-F7A01C26A5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA274457-B1CC-456B-BC1A-F7A01C26A5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA274457-B1CC-456B-BC1A-F7A01C26A5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA274457-B1CC-456B-BC1A-F7A01C26A5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

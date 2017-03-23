@@ -1,0 +1,5 @@
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer\bin\Debug\CarPricer.dll
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer\bin\Debug\CarPricer.pdb
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer\obj\Debug\CarPricer.csprojResolveAssemblyReference.cache
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer\obj\Debug\CarPricer.dll
+c:\users\veronika\documents\visual studio 2017\Projects\CarPricer\CarPricer\obj\Debug\CarPricer.pdb
