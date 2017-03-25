@@ -63,7 +63,7 @@ namespace CarPricer.Test
 
 
         [TestCase(0, 100, 110)]
-        [TestCase(3, 100, 75)]
+        [TestCase(1, 100, 100)]
 
         public void TestApplyNoPreviousOwnerBonus(int numberOfPreviousOwners, int originalPrice, double expectedPrice)
         {
@@ -80,7 +80,7 @@ namespace CarPricer.Test
 
 
         [TestCase(5000, 100, 99)]
-        [TestCase(20000, 100, 70)]
+        [TestCase(200000, 100, 70)]
 
         public void TestApplyMileageDeduction(int numberOfMiles, int originalPrice, double expectedPrice)
         {

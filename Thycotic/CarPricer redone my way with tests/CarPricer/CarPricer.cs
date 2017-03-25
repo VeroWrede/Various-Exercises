@@ -63,7 +63,7 @@ namespace CarPricer
         public double ApplyPreviousOwnerDeduction(Car car, double price)
         {
             double previousOwnerPenalty = 0;
-            if (car.NumberOfPreviousOwners >= OWNER_THRESHOLD)
+            if (car.NumberOfPreviousOwners > OWNER_THRESHOLD)
             {
                 previousOwnerPenalty = price * OWNER_PENALTY;
             }
